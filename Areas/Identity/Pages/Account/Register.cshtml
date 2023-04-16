@@ -1,0 +1,73 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<head>
+    <link rel="stylesheet" href="~/css/css.css">
+</head>
+<body>
+<section class="get-in-touch">
+    <h1 class="title" style="line-height:50px; margin-top: 20px; font-size:60px;">إضافة طالب جديد</h1>
+    <form class="contact-form row" id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-field col-lg-6">
+            <input asp-for="Input.StudentName" id="name" class="input-text js-input" style="text-align: right;" type="text" required>
+            <label asp-for="Input.StudentName" class="label" for="name" style="float: right;">اسم الطالب</label>
+            <span asp-validation-for="Input.StudentName" class="text-danger"></span>
+        </div>
+
+        <div class="form-field col-lg-6 ">
+            <input asp-for="Input.Email" id="userName" class="input-text js-input" style="text-align: right;" type="text" required>
+            <label asp-for="Input.Email" class="label" for="userName">اسم المستخدم</label>
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-field col-lg-6 ">
+            <input asp-for="Input.ConfirmPassword" id="confirmpassword" class="input-text js-input" style="text-align: right;" type="password" required>
+            <label asp-for="Input.ConfirmPassword" class="label" for="confirmpassword">تأكيد كلمة المرور</label>
+        </div>
+
+        <div class="form-field col-lg-6 ">
+            <input asp-for="Input.Password" id="password" class="input-text js-input" style="text-align: right;" type="password" required>
+            <label asp-for="Input.Password" class="label" for="password">كلمة المرور</label>
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+        </div>
+
+        <div class="form-field col-lg-6 ">
+            <input asp-for="Input.Phone" id="phone" class="input-text js-input" style="text-align: right;" type="text" required>
+            <label asp-for="Input.Phone" class="label" for="phone">رقم الهاتف</label>
+            <span asp-validation-for="Input.Phone" class="text-danger"></span>
+        </div>
+        <div class="form-field col-lg-6">
+            <input asp-for="Input.Address" id="Address" class="input-text js-input" style="text-align: right;" type="text" required>
+            <label asp-for="Input.Address" class="label" for="Address">عنوان الطالب</label>
+            <span asp-validation-for="Input.Address" class="text-danger"></span>
+        </div>
+        <div class="form-field col-lg-6">
+            <input asp-for="Input.RegistedDate" id="date" class="input-text js-input" style="text-align: right;" type="date" required>
+            <label asp-for="Input.RegistedDate" class="label" for="date">تاريخ التسجيل</label>
+            <span asp-validation-for="Input.RegistedDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-field col-lg-6 ">
+            <label asp-for="Input.ClassID" class="label" for="classid">الصف الدراسي</label>
+            <select asp-for="Input.ClassID" id="classid" style="float: left; width: 72%;">
+                <option value="1">الصف الأول الثانوي</option>
+                <option value="2">الصف الثاني الثانوي</option>
+                <option value="3">الصف الثالث الثانوي</option>
+            </select>
+            <span asp-validation-for="Input.ClassID" class="text-danger"></span>
+        </div>
+
+        <div class="form-field col-lg-12">
+            <input id="registerSubmit" class="submit-btn" type="submit" style="float: right; font-size: 30px;" value="إضافة">
+        </div>
+    </form>
+</section>
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

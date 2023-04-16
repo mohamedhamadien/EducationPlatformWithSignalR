@@ -1,0 +1,152 @@
+﻿@model IEnumerable<EducationPlatform_GraduationProject.ViewModels.ContentVM>
+@*<div class="container">*@
+
+<input type="text" id="userInput" hidden />
+<input type="text" id="userInputName" value="@User.Identity.Name" hidden />
+
+
+<div class="row ro p-1">
+    <div class="col-md-2 mt-5" id="addbtn">
+        <button class="btn btn-primary mt-2" id="showButton" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Live Chat</button>
+        <!-- Button trigger modal -->
+        <button type="button" class="btn btn-info mt-2" id="showbtn" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+            Join Meeting
+        </button>
+    </div>
+    <div  class="col-md-6  d-flex flex-column justify-content-center align-items-center">
+        @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                <div class="card text-dark border-primary my-2 mx-1 " style="max-width: 40rem; width: 40rem;">
+
+
+                    <div class="card-body">
+                        <h5 class="card-title" style="text-align: right;"> العنوان : @item.Title </h5>
+                        <hr>
+                        <h6 class="card-text" style="text-align: right;">  تاريخ المحاضرة:@item.Date.ToString("dd/MM/yyyy hh:mm tt")  </h6>
+                    </div>
+                    <a href="~/Third/Details/@item.Id" class="btn btn-primary"> عرض التفاصيل</a>
+                </div>
+            }
+        }
+        else
+        {
+            <div style="position: absolute;
+    right: 200px; color :wheat;">
+                <h4>لا توجد محاضرات حتي الان.</h4>
+            </div>
+        }
+    </div>
+    <!-- Modal -->
+    <div class="modal fade " id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
+                    <button type="button" class="btn-close" id="endbtn1" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div id='jitsi-container'></div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="endbtn" data-bs-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+  @*  <div class="col-md-4 mt-5">
+        <div id='jitsi-container'></div>
+        <button type="button" class="btn btn-primary" id="showbtn">Start Meeting</button>
+        <button type="button" class="btn btn-danger" id="endbtn" hidden>End Meeting</button>
+    </div>*@
+    <div class="offcanvas offcanvas-end" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel"></h5>
+            <button type="button" class="btn-close" id="closebtn" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <partial name="~/Views/Chat/Index.cshtml" />
+        </div>
+    </div>
+ </div>
+
+@section Scripts{
+    <script src="https://meet.jit.si/external_api.js"></script>
+    <script>
+
+        var domain = "meet.jit.si";
+        var options = {
+            roomName: "thirdyearstudent",
+            width: '100%',
+            height: '30em',
+            parentNode: document.querySelector('#jitsi-container'),
+            configOverwrite: {
+                prejoinPageEnabled: false,
+                startWithAudioMuted: true,
+                startWithVideoMuted: 10,
+                toolbarButtons: [
+                    'camera',
+                    'chat',
+                    'closedcaptions',
+                    'desktop',
+                    'download',
+                    'etherpad',
+                    'feedback',
+                    'filmstrip',
+                    'fullscreen',
+                    'highlight',
+                    'linktosalesforce',
+                    'microphone',
+                    'participants-pane',
+                    'profile',
+                    'raisehand',
+                    'security',
+                    'select-background',
+                    'settings',
+                    'tileview',
+                    'toggle-camera',
+                    'videoquality',
+                    'whiteboard',
+                    'recording',
+                ],
+                enforceModerator: true,
+                enableKickOutAll: true,
+                subject: 'الصف الثالث الثانوي',
+                userInfo: {
+                    email: '@User.Identity.Name',
+
+                    displayName: `@User.Identity.Name`,
+                }
+            },
+            interfaceConfigOverwrite: {
+                TOOLBAR_ALWAYS_VISIBLE: false,
+                SHOW_CHROME_EXTENSION_BANNER: false,
+                DEFAULT_LOCAL_DISPLAY_NAME: `@User.Identity.Name`,
+               
+            }
+        }
+        document.getElementById('showbtn').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn').hidden = false;
+            document.getElementById('showbtn').hidden = true;
+            var api = new JitsiMeetExternalAPI(domain, options);
+        });
+        document.getElementById('endbtn').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn').hidden = true;
+            document.getElementById('jitsi-container').innerHTML = `<span></span>`;
+            document.getElementById('showbtn').hidden = false;
+            var api = 'new JitsiMeetExternalAPI(domain, options)';
+        });
+        document.getElementById('endbtn1').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn1').hidden = true;
+            document.getElementById('jitsi-container').innerHTML = `<span></span>`;
+            document.getElementById('showbtn').hidden = false;
+            var api = 'new JitsiMeetExternalAPI(domain, options)';
+        });
+    </script>
+}

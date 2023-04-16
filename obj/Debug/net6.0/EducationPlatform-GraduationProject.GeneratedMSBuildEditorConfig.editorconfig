@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EducationPlatform_GraduationProject
+build_property.RootNamespace = EducationPlatform_GraduationProject
+build_property.ProjectDir = G:\Projects\Graduation Project\15-4-2023\15-4-2023\EducationPlatform-GraduationProject\EducationPlatform-GraduationProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Projects\Graduation Project\15-4-2023\15-4-2023\EducationPlatform-GraduationProject\EducationPlatform-GraduationProject
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Chat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/First/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/First/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Month/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9udGhcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Second/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vjb25kXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Second/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vjb25kXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Teacher/DeleteStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxEZWxldGVTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Teacher/GetAllStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxHZXRBbGxTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Teacher/UpdateStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlclxVcGRhdGVTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Third/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpcmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Third/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhpcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Projects/Graduation Project/15-4-2023/15-4-2023/EducationPlatform-GraduationProject/EducationPlatform-GraduationProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4lak5divij

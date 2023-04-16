@@ -1,0 +1,38 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="container">
+    <div class="row p-1">
+        <div class="col-5"><input type="text" id="userInput" hidden /></div>
+        <div class="col-5"><input type="text" id="userInputName" value="@User.Identity.Name" hidden /></div>
+    </div>
+
+    <div class="row p-1 ">
+        <div class="chat-container">
+            <div class="chat-header">
+                <div class="title">
+                    <img src="cha.svg" width="35px">
+                    <h2>Live Chat</h2>
+                </div>
+
+            </div>
+            <div class="chat-body">
+                <ul id="messagesList">
+                </ul>
+            </div>
+            <div class="chat-footer">
+
+
+                @*<input type="button" class="btn btn-primary" id="sendButton" value="إرسال" />
+                <input type="text" class="form-control w-100" id="messageInput" />*@
+                <button id="sendButton">إرسال</button>
+                <input type="text" class="w-100" id="messageInput" placeholder="Type Youre Messag" />
+
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>

@@ -1,0 +1,114 @@
+﻿@model EducationPlatform_GraduationProject.ViewModels.ContentWithDetails
+
+
+<div class="d-flex justify-content-center align-items-center ro">
+    <div class="card text-dark border-primary my-5 mx-3 " style="max-width: 60rem; width: 60rem;">
+
+
+        <div class="card-header" style="text-align: right; font-size: 1.5rem">
+            الصف ألثاني الثانوي
+        </div>
+
+        <div class="card-body">
+            <h4 class="card-title" style="text-align: right; font-size: 2rem">
+                العنوان : @Model.Title
+            </h4>
+            <hr>
+            <h6 class="card-text" style="text-align: right;"> تاريخ المحاضرة:@Model.Date.ToString("dd/MM/yyyy hh:mm tt") </h6>
+            <hr>
+        </div>
+
+        <div class="card-body Images">
+            <h4 class="card-header bg-primary text-white" style="text-align: right;">
+                الصـــــــور
+                <i class='fas fa-angle-down mt-1' onclick="visibaleAndHideImages()" style="float: left; cursor: pointer;"></i>
+            </h4>
+            <div id="ContainerImages" style="display: none;">
+                @if (Model.Images != null)
+                {
+                    try
+                    {
+                        foreach (var item in Model.Images)
+                        {
+                            <img src="@item" height="400" class="w-100" alt="خطأ في التحميل">
+                        }
+                    }
+                    catch
+                    {
+                        <div> error </div>
+                    }
+
+                }
+
+            </div>
+        </div>
+
+        <div class="card-body Videos">
+            <h4 class="card-header bg-primary text-white" style="text-align: right;">
+                الفيديوهات
+                <i class='fas fa-angle-down mt-1' onclick="visibaleAndHideVideos()" style="float: left; cursor: pointer;"></i>
+            </h4>
+            <div id="ContainerVideos" style="display: none;">
+
+
+                @if (Model.Videos != null)
+                {
+                    try
+                    {
+                        foreach (var item in Model.Videos)
+                        {
+                            <div style="padding-top:73%;position:relative;">
+
+                                <iframe src="@item" style="border:0;max-width:100%;position:absolute;top:0;left:0;height:100%;width:100%;" allowFullScreen="true" allow="encrypted-media"></iframe>
+                            </div>
+                        }
+                    }
+                    catch
+                    {
+                        <div> error </div>
+                    }
+
+                }
+            </div>
+        </div>
+
+        <div class="card-body PDFs">
+            <h4 class="card-header bg-primary text-white" style="text-align: right;">
+                الملفات
+                <i class='fas fa-angle-down mt-1' onclick="visibaleAndHidePDF()" style="float: left; cursor: pointer;"></i>
+            </h4>
+            <div id="ContainerPDFs" style="display: none;">
+                @if (Model.Pdfs != null)
+                {
+                    try
+                    {
+                        foreach (var item in Model.Pdfs)
+                        {
+                            <p>Open a PDF file <a href="@item">@Model.Title</a>.</p>
+                        }
+                    }
+                    catch
+                    {
+                        <div> error </div>
+                    }
+
+                }
+            </div>
+        </div>
+
+        <a href="~/Second" class="btn btn-primary" style="font-size: 1.5rem"> رجــــــــوع</a>
+    </div>
+</div>
+
+
+<script src="https://kit.fontawesome.com/9c5842ef27.js" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+        integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+        crossorigin="anonymous"></script>
+<script src="~/js/addContent.js"></script>
+@*</body>
+
+</html>*@

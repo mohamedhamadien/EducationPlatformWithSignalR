@@ -1,0 +1,857 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EducationPlatform-GraduationProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EducationPlatform-GraduationProject.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\2325.jpg",
+      "PackagePath": "staticwebassets\\2325.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\ChemistryFavIcon.ico",
+      "PackagePath": "staticwebassets\\Home\\ChemistryFavIcon.ico"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\Mr_1.jpg",
+      "PackagePath": "staticwebassets\\Home\\Mr_1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\New Text Document.txt",
+      "PackagePath": "staticwebassets\\Home\\New Text Document.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\atom (1).png",
+      "PackagePath": "staticwebassets\\Home\\atom (1).png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\logo.png",
+      "PackagePath": "staticwebassets\\Home\\logo.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\mr2.jpg",
+      "PackagePath": "staticwebassets\\Home\\mr2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Home\\mr2edited.jpg",
+      "PackagePath": "staticwebassets\\Home\\mr2edited.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Images\\img1.jpg",
+      "PackagePath": "staticwebassets\\Images\\img1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\MainImportant.css",
+      "PackagePath": "staticwebassets\\MainImportant.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\Scripts\\contact-form-script.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\form-validator.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery-min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.easing.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.mixitup.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.mixitup.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.nav.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.slicknav.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.touchSwipe.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.touchSwipe.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\jquery.vide.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.vide.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\Scripts\\magnific-popup.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\main.js",
+      "PackagePath": "staticwebassets\\Scripts\\main.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\nivo-lightbox.js",
+      "PackagePath": "staticwebassets\\Scripts\\nivo-lightbox.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Scripts\\owl.carousel.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\paradise_slider_min.js",
+      "PackagePath": "staticwebassets\\Scripts\\paradise_slider_min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\particles.js",
+      "PackagePath": "staticwebassets\\Scripts\\particles.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\popper.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\popper.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\range\\jquery.touchSwipe.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\range\\jquery.touchSwipe.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\range\\responsive_bootstrap_carousel.js",
+      "PackagePath": "staticwebassets\\Scripts\\range\\responsive_bootstrap_carousel.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\scrolling-nav.js",
+      "PackagePath": "staticwebassets\\Scripts\\scrolling-nav.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\smoothscroll.js",
+      "PackagePath": "staticwebassets\\Scripts\\smoothscroll.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\waypoints.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Scripts\\wow.js",
+      "PackagePath": "staticwebassets\\Scripts\\wow.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\animate.css",
+      "PackagePath": "staticwebassets\\Style\\animate.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Style\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Style\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Style\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\full_width_animated_layers_002.css",
+      "PackagePath": "staticwebassets\\Style\\full_width_animated_layers_002.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\line-icons.css",
+      "PackagePath": "staticwebassets\\Style\\line-icons.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Style\\magnific-popup.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\main.css",
+      "PackagePath": "staticwebassets\\Style\\main.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\nivo-lightbox.css",
+      "PackagePath": "staticwebassets\\Style\\nivo-lightbox.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Style\\owl.carousel.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\owl.theme.css",
+      "PackagePath": "staticwebassets\\Style\\owl.theme.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\particles.css",
+      "PackagePath": "staticwebassets\\Style\\particles.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\post_083.css",
+      "PackagePath": "staticwebassets\\Style\\post_083.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\range_slides_carousel.css",
+      "PackagePath": "staticwebassets\\Style\\range_slides_carousel.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\responsive.css",
+      "PackagePath": "staticwebassets\\Style\\responsive.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\slicknav.css",
+      "PackagePath": "staticwebassets\\Style\\slicknav.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\testimonial_speech_bubble_box_right_carousel.css",
+      "PackagePath": "staticwebassets\\Style\\testimonial_speech_bubble_box_right_carousel.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\Style\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Style\\themify-icons.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\bg1.jpg",
+      "PackagePath": "staticwebassets\\bg1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\cha.svg",
+      "PackagePath": "staticwebassets\\cha.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\chat.png",
+      "PackagePath": "staticwebassets\\chat.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\css\\ViewContentDetailsStyle.css",
+      "PackagePath": "staticwebassets\\css\\ViewContentDetailsStyle.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\css\\css.css",
+      "PackagePath": "staticwebassets\\css\\css.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\css\\getallstudents.css",
+      "PackagePath": "staticwebassets\\css\\getallstudents.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\ChemistryFavIcon.ico",
+      "PackagePath": "staticwebassets\\img\\Home\\ChemistryFavIcon.ico"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\Mr_1.jpg",
+      "PackagePath": "staticwebassets\\img\\Home\\Mr_1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\New Text Document.txt",
+      "PackagePath": "staticwebassets\\img\\Home\\New Text Document.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\atom (1).png",
+      "PackagePath": "staticwebassets\\img\\Home\\atom (1).png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\logo.png",
+      "PackagePath": "staticwebassets\\img\\Home\\logo.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\mr2.jpg",
+      "PackagePath": "staticwebassets\\img\\Home\\mr2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\mr2edited.jpg",
+      "PackagePath": "staticwebassets\\img\\Home\\mr2edited.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\newlogo.jpg",
+      "PackagePath": "staticwebassets\\img\\Home\\newlogo.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\Home\\newlogo2.PNG",
+      "PackagePath": "staticwebassets\\img\\Home\\newlogo2.PNG"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\bg-goal.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-goal.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-4.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\candidate-video.jpg",
+      "PackagePath": "staticwebassets\\img\\candidate-video.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\counter.jpg",
+      "PackagePath": "staticwebassets\\img\\counter.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\dummy.png",
+      "PackagePath": "staticwebassets\\img\\dummy.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\en.jpg",
+      "PackagePath": "staticwebassets\\img\\en.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\es.jpg",
+      "PackagePath": "staticwebassets\\img\\es.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\fr.jpg",
+      "PackagePath": "staticwebassets\\img\\fr.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\hero-area.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-area.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\img-1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\img-2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\img-3.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\img-4.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\map-marker.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\p-1.png",
+      "PackagePath": "staticwebassets\\img\\p-1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\portfolio\\.DS_Store"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\portfolio\\portfolio_recommended.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio_recommended.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\quote.jpg",
+      "PackagePath": "staticwebassets\\img\\quote.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\servic.jpg",
+      "PackagePath": "staticwebassets\\img\\servic.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider-3.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\tr.jpg",
+      "PackagePath": "staticwebassets\\img\\tr.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\videobg.jpg",
+      "PackagePath": "staticwebassets\\img\\videobg.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\work-.jpg",
+      "PackagePath": "staticwebassets\\img\\work-.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\img\\work.jpg",
+      "PackagePath": "staticwebassets\\img\\work.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\js\\addContent.js",
+      "PackagePath": "staticwebassets\\js\\addContent.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\menu.svg",
+      "PackagePath": "staticwebassets\\menu.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\.DS_Store",
+      "PackagePath": "staticwebassets\\portfolio\\.DS_Store"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\portfolio\\portfolio_recommended.png",
+      "PackagePath": "staticwebassets\\portfolio\\portfolio_recommended.png"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "G:\\Projects\\Graduation Project\\15-4-2023\\15-4-2023\\EducationPlatform-GraduationProject\\EducationPlatform-GraduationProject\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EducationPlatform-GraduationProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EducationPlatform-GraduationProject.props",
+      "PackagePath": "build\\EducationPlatform-GraduationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EducationPlatform-GraduationProject.props",
+      "PackagePath": "buildMultiTargeting\\EducationPlatform-GraduationProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EducationPlatform-GraduationProject.props",
+      "PackagePath": "buildTransitive\\EducationPlatform-GraduationProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,202 @@
+﻿@model IEnumerable<EducationPlatform_GraduationProject.ViewModels.ContentWithDetails>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+          integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <style>
+        .chatbtn {
+            font-size: 80px;
+            color: #007bff;
+        }
+
+        .ro {
+            background-image: url('2325.jpg');
+            /*background-image: url('/Chemistry.jpg.thumb.1280.1280.jpg');*/
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height: 100vh;
+            z-index: 3000;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="row ro">
+        <div class="col-md-2 mt-5">
+            <button class="btn btn-primary mt-2" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Live Chat</button>
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-info mt-2" id="showbtn" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                Join Meeting
+            </button>
+        </div>
+        <div class="col-md-10  d-flex justify-content-center align-items-center">
+            @if (Model != null)
+            {
+
+                foreach (var item in Model)
+                {
+                    <div class="card text-dark border-primary my-5 mx-3 " style="max-width: 40rem; width: 40rem;">
+
+                        @if (@item.ClassName == "First")
+                        {
+                            <div class="card-header" style="text-align: right;">الصف الأول الثانوي</div>
+                        }
+                        else if (@item.ClassName == "Second")
+                        {
+                            <div class="card-header" style="text-align: right;">الصف الثاني الثانوي</div>
+                        }
+                        else
+                        {
+                            <div class="card-header" style="text-align: right;">الصف الثالث الثانوي</div>
+                        }
+                        <div class="card-body">
+                            <h5 class="card-title" style="text-align: right;"> العنوان : @item.Title </h5>
+                            <hr>
+                            <h6 class="card-text" style="text-align: right;">  تاريخ المحاضرة:@item.Date.ToString("dd/MM/yyyy hh:mm tt")  </h6>
+                        </div>
+                        <a  href="~/Student/Details/@item.Id" class="btn btn-primary"> عرض التفاصيل</a>
+                    </div>
+                }
+            }
+            else
+            {
+                <div>
+                    <h4>لا يوجد محتوي يا ابن الناس</h4>
+                </div>
+            }
+        </div>        
+        <div class="col-md-4 mt-5">
+         
+  </div>
+           @* <button type="button" class="btn btn-primary" id="showbtn">Start Meeting</button>
+            <button type="button" class="btn btn-danger" id="endbtn" hidden>End Meeting</button>*@
+           <button type="button" class="btn btn-danger" id="closebtn" hidden>clode</button>
+            <button type="button" class="btn btn-danger" id="showButton" hidden>clode</button>
+        <!-- Button trigger modal -->
+       @* <button type="button" class="btn btn-info" id="showbtn" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+           Join Meeting
+        </button>
+*@
+        <!-- Modal -->
+        <div class="modal fade " id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h1 class="modal-title fs-5" id="staticBackdropLabel"></h1>
+                        <button type="button" class="btn-close" id="endbtn1" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <div id='jitsi-container'></div>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" id="endbtn" data-bs-dismiss="modal">Close</button>
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="offcanvas offcanvas-end" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasWithBothOptions" aria-labelledby="offcanvasWithBothOptionsLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <partial name="~/Views/Chat/Index.cshtml" />
+            </div>
+        </div>
+
+    </div>
+    <script src="https://kit.fontawesome.com/79828b7d1d.js" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js"
+            integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V"
+            crossorigin="anonymous"></script>
+    <script src="~/js/site.js"></script>
+    <script src="https://meet.jit.si/external_api.js"></script>
+    <script>
+       
+        var domain = "meet.jit.si";
+        var options = {
+            roomName: "firstyearstudent",
+            width: '100%',
+            height: '30em',
+            parentNode: document.querySelector('#jitsi-container'),
+            configOverwrite: {
+                prejoinPageEnabled: false,
+                startWithAudioMuted: true,
+                startWithVideoMuted: 10,
+                toolbarButtons: ['microphone', 'chat', 'fullscreen', 'raisehand'],
+                disableRemoteControl: true,
+             
+
+                disableRemoteMute: true,
+                remoteVideoMenu: {
+                    disableKick: true,
+                },
+                userInfo: {
+                    email: '@User.Identity.Name',
+                    displayName: '@User.Identity.Name',
+                }
+                
+            },
+            interfaceConfigOverwrite: {
+                TOOLBAR_ALWAYS_VISIBLE: false, 
+                SHOW_CHROME_EXTENSION_BANNER: false,
+                DEFAULT_LOCAL_DISPLAY_NAME: `@User.Identity.Name`,
+              
+
+            }
+        };
+        //var y;
+        //foreach (var item in Model)
+        //{
+        //     var x = "";
+        //    if (item.ClassName == "First")
+        //    {
+        //            x = "firstyearstudent";
+        //    }
+        //    else if (item.ClassName == "Second")
+        //    {
+        //        x = "secondyearstudent";
+        //    }
+        //    else
+        //    {
+        //      x = "thirdyearstudent";
+
+        //    }
+
+        //}
+        //    options.roomName = x;
+        document.getElementById('showbtn').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn').hidden = false;
+            document.getElementById('showbtn').hidden = true;
+            var api = new JitsiMeetExternalAPI(domain, options);
+        });
+        document.getElementById('endbtn').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn').hidden = true;
+            document.getElementById('jitsi-container').innerHTML = `<span></span>`;
+            document.getElementById('showbtn').hidden = false;
+            var api = 'new JitsiMeetExternalAPI(domain, options)';
+        });
+        document.getElementById('endbtn1').addEventListener('click', function (event) {
+
+            document.getElementById('endbtn1').hidden = true;
+            document.getElementById('jitsi-container').innerHTML = `<span></span>`;
+            document.getElementById('showbtn').hidden = false;
+            var api = 'new JitsiMeetExternalAPI(domain, options)';
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,340 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #90e0ef;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+}
+/*#chatbtn {
+    position: absolute;
+    top: 300px;
+    right: 1000px;
+    width: 200px;
+    height: 100px;*/
+/* right: 100vh;
+    top: 40vh;*/
+/*}*/
+.chat-container {
+    width: 400px;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-header {
+    background-color: #eee;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+.chat-body {
+    flex: 1;
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.message-sender {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.chat-footer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+    .chat-footer input[type="text"] {
+        flex: 1;
+        margin-right: 10px;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .chat-footer button {
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .chat-footer button:hover {
+            background-color: #0069d9;
+        }
+
+div.outgoing {
+    margin-left: auto;
+    border-radius: 50px 10px 10px 50px;
+    background-color: #39628d;
+    color: white;
+}
+
+////////login
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
+
+.container1 {
+    background-color: rgb(141 220 255);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    background-color: white;
+    border-radius: 10px;
+    padding: 45px;
+    width: 450px;
+    max-width: 95%;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0,10%);
+}
+
+@media(max-width: 450px) {
+    .box {
+        padding: 75px 25px;
+    }
+}
+
+.box h1 {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.label1 {
+    display: block;
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 5px;
+    padding-left: 230px;
+}
+
+.label2 {
+    display: block;
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 5px;
+    padding-left: 250px;
+}
+
+.inputCss {
+    font-size: 12px;
+    outline: none;
+    border: none;
+    padding: 10px;
+    min-width: 0;
+    flex: 1;
+    unicode-bidi: bidi-override;
+    direction: RTL;
+}
+
+.lgnBtn {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: #69d6e9;
+    color: white;
+    width: 100%;
+    padding: 15px;
+    margin-top: 45px;
+    border-radius: 250px;
+    border: none;
+}
+
+    .lgnBtn:hover {
+        cursor: pointer;
+        background-color: #0d8da3;
+    }
+
+.divCss {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+
+    .divCss:hover {
+        border-bottom-color: #69d6e9;
+    }
+
+    .divCss i {
+        font-size: 15px;
+        padding-left: 20px;
+    }
+
+        .divCss i:hover {
+            color: #69d6e9;
+        }
+
+    .divCss input::placeholder {
+        opacity: 1;
+        color: grey;
+        font-size: 12px;
+        float: right;
+        padding-left: 20px;
+    }
+
+    .divCss:first-of-type {
+        margin-bottom: 35px;
+    }
+
+
+.ro {
+    background-image: url('../2325.jpg');
+    /*background-image: url('/Chemistry.jpg.thumb.1280.1280.jpg');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    z-index: 3000;
+}
+
+//chatcss
+
+.chat-container {
+    width: 400px;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding:0;
+}
+.chat-header {
+    padding: 0;
+}
+.chat-header .title {
+    background-color: #eee;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    display: flex;
+    height: 45px;
+    background-color: #39628d;
+}
+
+.chat-header img {
+    padding-left: 15px;
+}
+
+.chat-header h2 {
+    margin-left: 10px;
+    margin-top: -6px;
+    color: white;
+}
+
+.chat-body {
+    flex: 1;
+    padding: 10px;
+    overflow-y: scroll;
+}
+.message-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    margin-bottom: 10px;
+    padding: 2px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.message-sender {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.chat-footer {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}
+
+    .chat-footer input[type="text"] {
+        flex: 1;
+        margin-right: 10px;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 50px 0 0 50px;
+        border-color: #39628d;
+        background-color: white;
+    }
+
+    .chat-footer button {
+        padding: 5px 10px;
+        background-color: #39628d;
+        color: #fff;
+        border: none;
+        border-radius: 0 50px 50px 0;
+        cursor: pointer;
+        font-weight: 500;
+        outline: none;
+        padding: 5px 15px;
+        letter-spacing: 0.5px;
+    }
+
+        .chat-footer button:hover {
+            background-color: #105094;
+        }
+
+div.chat-body ul {
+    padding: 10px;
+    min-height: 65vh;
+}
+
+.coming {
+    color: #39628d;
+   
+    background-color: white;
+    padding: 5px 15px;
+    max-width: 250px;
+    border-radius: 10px 50px 50px 10px;
+    margin-bottom: 15px;
+    border-color: #39628d;
+}

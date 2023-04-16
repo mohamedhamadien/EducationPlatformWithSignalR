@@ -1,0 +1,93 @@
+﻿@model IEnumerable<EducationPlatform_GraduationProject.Models.Student>
+
+@{
+    ViewData["Title"] = "GetAllStudent";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <link rel="stylesheet" href="~/css/getallstudents.css">
+</head>
+<h1>قائمة الطلاب</h1>
+
+<p>
+    <a class="nav-link text-light" asp-area="Identity" asp-page="/Account/Register">إضافة طالب</a>
+</p>
+@if (Model.Count() > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    اسم الطالب
+                </th>
+                <th>
+                    رقم الهاتف
+                </th>
+                <th>
+                    العنوان
+                </th>
+                <th>
+                    تاريخ التسجيل
+                </th>
+                <th>
+                    الصف الدراسي
+                </th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.StName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RegistedDate)
+                    </td>
+                    
+                        @if (item.Class.Title == "First")
+                        {
+                            <td>
+                            الصف الأول الثانوي
+                            </td>
+                        }
+                        else if (item.Class.Title == "Second")
+                        {
+                            <td>
+                            الصف الثاني الثانوي
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                            الصف الثالث الثانوي
+                            </td>
+                        }
+                        
+                   
+
+                    <td>
+                        <a asp-action="UpdateStudent" asp-route-id="@item.StId" class="btn btn-primary">تعديل البيانات</a> |
+                        @*<a asp-action="Details" asp-route-id="@item.StId" class="btn btn-primary">عرض التفاصيل</a> |*@
+                        <a asp-action="Edit" asp-controller="Month" asp-route-id="@item.StId" class="btn btn-primary">تعديل الشهور</a> |
+                        <a asp-action="DeleteStudent" asp-route-id="@item.StId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div>
+        لا يوجد طلاب حتى الآن
+    </div>    
+}
